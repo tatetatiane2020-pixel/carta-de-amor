@@ -1,0 +1,12 @@
+CARTINHA INTERATIVA
+
+Como abrir pelo VS Code:
+1. Abra esta pasta no VS Code.
+2. Para ver direto no navegador, abra o arquivo index.html.
+3. Ou execute abrir_carta.py com Python instalado. Ele inicia o site local e abre o navegador.
+4. Para encerrar o servidor, volte ao terminal e pressione Ctrl+C.
+
+Para personalizar o texto, edite as frases em index.html.
+O projeto usa HTML, CSS e JavaScript para a página; o arquivo Python inicia um servidor local.
+
+Observação: o endereço local funciona no seu computador. Para compartilhar um link que abra pela internet, a página precisa ser publicada em um serviço de hospedagem.
